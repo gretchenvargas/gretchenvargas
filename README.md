@@ -55,7 +55,7 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gretchenvargas&theme=omni&hide_border=false" /> 
   <br></br>
-  <img  title="Most Used Languages" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretchenvargas&theme=omni&hide_border=false" /> 
+  <img  title="Most Used Languages" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretchenvargas&theme=omni&hide_border=false" /> 
 </td>
 </tr>
 </table>
