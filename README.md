@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/gretchen-vargas/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="https://www.discord.com/users/grevargas" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=7289da&logo=Discord&logoColor=FFFFFF&label=" alt="Discord" /></a>
 <a href="mailto:gretchen.vargxs@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=c71610&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail" /></a>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gretchenvargas.repoName) ![GitHub followers](https://img.shields.io/github/followers/gretchenvargas)
 
 -------------------
 &emsp;
@@ -17,6 +16,7 @@
 <p>
 &emsp;
 &emsp;
+
 
 ## 📈 My skills and my GitHub Stats
 <p align="center">
@@ -44,13 +44,18 @@
 ### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-ff79c6?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-ff79c6?&logo=SQLite)
-  
+
+  🤣 Some Jokes!
+-------------------
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=omni" alt="Jokes Card" />
   </td>
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gretchenvargas&theme=omni&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gretchenvargas&theme=omni&hide_border=false" /> 
+  <br></br>
+  <img  title="Most Used Languages" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretchenvargas&theme=omni&hide_border=false" /> 
 </td>
 </tr>
 </table>
