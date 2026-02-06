@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gretchen</h1>
+<h1 align="center">Data Analyst, Gretchen Vargas</h1>
 
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/6351dfd1-b202-4733-81fe-48af795e8bb1" />
 <a href="https://www.linkedin.com/in/gretchen-vargas/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
