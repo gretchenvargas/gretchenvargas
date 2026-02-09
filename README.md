@@ -1,6 +1,6 @@
 <h1 align="center">Data Analyst, Gretchen Vargas</h1>
 
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/6351dfd1-b202-4733-81fe-48af795e8bb1" />
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/cd5a88de-e948-41fe-8e45-34b25b357dc1" />
 <a href="https://www.linkedin.com/in/gretchen-vargas/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="https://www.discord.com/users/grevargas" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=7289da&logo=Discord&logoColor=FFFFFF&label=" alt="Discord" /></a>
 <a href="mailto:gretchen.vargxs@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=c71610&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail" /></a>
